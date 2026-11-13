@@ -1,0 +1,6 @@
+{
+  "name": "Figure 8 Coffee Purveyors",
+  "description": "Independent specialty coffee roastery and East Austin cafe at 1111 Chicon St featuring a 30-foot brushed copper bar, seasonal espresso and pour-over menu, and local Austin bean delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
